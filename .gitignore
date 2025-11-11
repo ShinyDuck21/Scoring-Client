@@ -1,0 +1,4 @@
+linuxClient/.venv
+linuxClient/.vscode
+scoring-server/.next
+scoring-server/node_modules
